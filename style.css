@@ -1,3 +1,28 @@
 body{
-    background: linear-gradient(135deg,#ff0296,rgb(174, 12, 214));
+    background: linear-gradient(35deg,#ff0296,rgb(66, 12, 214));
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+#container{
+    
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    background-color: rgba(48, 9, 46, 0.315);
+    padding-left: 20px;
+    margin: 0 auto ;
+    margin-top: 50px;
+    border-radius: 40px;
+}
+#calculate{
+    width:150px;
+    height: 50px;
+    background-color: rgba(255, 192, 203, 0.349);
+    color:#d366a5;
+    font-size:16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
 }
